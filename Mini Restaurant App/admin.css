@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins",sans-serif;
+}
+body{
+    background-image: url("https://img.etimg.com/thumb/width-1200,height-900,imgsize-829462,resizemode-1,msid-82666514/industry/services/hotels-/-restaurants/staggered-lockdowns-start-to-bite-battered-restaurants.jpg");
+}
+#menu_{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+#menu_>a{
+    text-decoration: none;
+    color: white;
+}
+#main{
+    width: 80%;
+    margin: auto;
+    margin-top: 0px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: auto;
+    gap: 30px 30px;
+}
+#main>div{
+    width: 100%;
+    /* height: 290px; */
+    padding: 20px 30px;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+    border-radius: 20px;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    color:  rgb(255, 255, 255);
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+input{
+    width: 100%;
+    height: 32px;
+    margin-bottom: 10px;
+    background-color: rgb(221, 221, 221);
+    border: none;
+    font-size: 18px;
+    padding-left: 20px;
+    border-radius: 10px;
+    outline: none;
+}
+button{
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 40px;
+    font-size: 18px;
+    background-color: black;
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(46, 46, 46);
+}

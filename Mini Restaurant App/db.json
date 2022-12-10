@@ -1,0 +1,84 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/09/Wasabi-By-MorimotoMahaResto-400x229.jpg",
+      "title": "Wasabi By Morimoto",
+      "description": "A venture from world-famous chef Masaharu Morimoto, of Iron Chef fame, Wasabi by Morimoto is based at Mumbai’s luxury Taj Mahal Palace Hotel that for the last two consecutive years has been listed among Asia’s 50 Best Restaurants.",
+      "price": 1500,
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/09/The-TableMahaResto-400x229.jpg",
+      "title": "The Table",
+      "description": "The recipient of a whole host of awards including the Times Good Food Awards’ Best European and Global Cuisine of 2013 and Best Restaurant in India from the 2014 TimeOut Food Awards, since opening in 2011 The Tablehas become one of the most popular dining destinations in Mumbai. ",
+      "price": "1800",
+      "rating": "4.2"
+    },
+    {
+      "id": "3",
+      "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/09/FavolaMahaResto-400x229.jpg",
+      "title": "Favola",
+      "description": "Widely regarded as one of the best Italian restaurants in Pune, Favola is one of several dining options at the classy Le Méridien hotel and with head chef Roberto Boggio, a native of Italy’s Piedmont region, at the helm, guests are ensured an authentic dining experience.",
+      "price": "500",
+      "rating": "3.5"
+    },
+    {
+      "id": "4",
+      "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/09/Talk-Of-The-TownMahaResto-400x229.jpg",
+      "title": " Talk Of The Town",
+      "description": "Talk of the Town indeed lives up to its name; the restaurant is the talk of the town in Nashik for its two level design, which has the bar on the ground floor, and a family restaurant on the first floor. ",
+      "price": "600",
+      "rating": "3.9"
+    },
+    {
+      "id": "5",
+      "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/09/Oh-ChaMahaResto-400x229.jpg",
+      "title": "O:h Cha",
+      "description": "O:h Cha is one place to go to for delectable Thai cuisine in the city. Though Thai cuisine is highly popular in the city, you would not find many places serving authentic dishes. This is a perfect place for a stylish dining experience with your partner or friends. ",
+      "price": "900",
+      "rating": "3.8"
+    },
+    {
+      "id": "6",
+      "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/09/Nanking-Mayfair-Chinese-RestaurantMahaResto-400x229.jpg",
+      "title": "Nanking Mayfair Chinese Restaurant",
+      "description": "Nanking Mayfair Chinese Restaurant is one of the best restaurants in Maharashtra’s Nagpur city. The restaurant has been passionately serving a variety of Asian dishes from the past 3 decades. ",
+      "price": "1200",
+      "rating": "4.1"
+    },
+    {
+      "id": "7",
+      "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/09/BarbecueMahaResto-400x229.jpg",
+      "title": "Barbecue",
+      "description": "Barbecue is a mind-blowing restaurant in Nagpur, and the reason is its food. Though it is an old restaurant, it is one of the most popular places to eat in the city, and is generally packed. The food served at Barbecue plays with the best flavours of the North Indian cuisine.",
+      "price": "1500",
+      "rating": "4.6"
+    },
+    {
+      "id": "8",
+      "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/09/MThe-Grapevine-RestaurantMaha-400x229.jpg",
+      "title": "The Grapevine Restaurant",
+      "description": "Located on the Masjid Road of Mahabaleshwar, the Grapevine Restaurant is a decent place to eat. It features a wine bar, that serves a variety of tasty wines inspired by the Mediterranean along with yummy beer. ",
+      "price": "350",
+      "rating": "3.5"
+    },
+    {
+      "id": "9",
+      "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/09/Enter-The-DragonMahaResto-400x229.jpg",
+      "title": "Enter The Dragon",
+      "description": "If you ever crave for mouth-watering authentic Chinese dishes in Nashik, Enter The Dragon is you place. This is one of the best restaurants in Maharashtra that offers great food along with exclusive terrace dining experience.",
+      "price": "2200",
+      "rating": "4.2"
+    },
+    {
+      "id": "10",
+      "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/09/The-Breakfast-StoryMahaResto-400x229.jpg",
+      "title": "The Breakfast Story",
+      "description": "The Breakfast Story is located in the city famous for oranges, Nagpur. This is one of the best restaurants in Maharashtra to catch some delicious breakfast everyday. The ambiance of this place is youthful and refreshing.",
+      "price": "250",
+      "rating": "3.5"
+    }
+  ]
+}

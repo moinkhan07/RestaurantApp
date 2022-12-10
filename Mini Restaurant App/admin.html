@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admin Panel | Add Items To Your Menu</title>
+    <link rel="stylesheet" href="./admin.css" />
+  </head>
+  <body>
+    <button id="menu_"><a href="./menu.html">Menu Page</a></button>
+    <div id="main">
+      <div id="add">
+        <h2>Add Items</h2>
+        <input type="number" placeholder="Id" id="id">
+        <input id="image" type="url" placeholder="Image Url" />
+        <input id="title" type="text" placeholder="Title" />
+        <input id="description" type="text" placeholder="Description" />
+        <input id="price" type="number" placeholder="Price" />
+        <input id="rating" type="number" placeholder="Rating" />
+        <button onclick="addItems()">Add Item</button>
+      </div>
+      <!-- Add item div done here -->
+      <div id="put">
+        <h2>Replace Item</h2>
+        <input id="rep_id" type="text" placeholder="Enter Id To Replace Item"/>
+        <input type="number" placeholder="New Id" id="new_id">
+        <input id="rep_image" type="url" placeholder="Replace Image" />
+        <input id="rep_title" type="text" placeholder="Enter New Title"/>
+        <input id="rep_description" type="text" placeholder="Replace Description" />
+        <input id="rep_price" type="number" placeholder="Replace Price" />
+        <input id="rep_rating" type="number" placeholder=" Replace Rating" />
+        <button onclick="replaceItems()">Replace Item</button>
+      </div>
+      <!-- Put / Replace div done here -->
+      <div id="patch">
+        <h2>Update Item</h2>
+        <input id="upd_id" type="text" placeholder="Enter Id To Update Price"/>
+        <input id="upd_price" type="number" placeholder="Update Price" />
+        <button onclick="updateItems()">Update Item</button>
+      </div>
+      <!-- Patch / Update div done here-->
+      <div id="delete">
+        <h2>Delete Item</h2>
+        <input id="del_id" type="text" placeholder="Enter Id To Delete Item"/>
+        <button onclick="deleteItems()">Delete Item</button>
+      </div>
+      <!-- Delete item div done here -->
+    </div>
+  </body>
+</html>
+<script src="./admin.js"></script>
